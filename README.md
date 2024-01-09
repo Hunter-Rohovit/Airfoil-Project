@@ -3,4 +3,4 @@ This project was for my Honors Aerospace Engineering Class. We were tasked with 
 # Wind Tunnel Test
 ![IMG_1122](https://github.com/Hunter-Rohovit/Airfoil-Project/assets/105554281/34f626a5-c93d-4bd8-8547-1af35604b275)
 # NASA Foil Sim
-![Airfoil](https://github.com/Hunter-Rohovit/Airfoil-Project/assets/105554281/cf411939-2fa8-46cc-ba6c-9c12dfb4d319)
+![Airfoil](https://github.com/Hunter-Rohovit/Airfoil-Project/assets/105554281/e0543fb8-f51b-46e7-a3ad-381f49631d20)
